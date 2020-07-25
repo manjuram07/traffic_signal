@@ -1,2 +1,2 @@
 # traffic_signal
-It is based on computer graphics
+This project is based on computer graphics mini project
